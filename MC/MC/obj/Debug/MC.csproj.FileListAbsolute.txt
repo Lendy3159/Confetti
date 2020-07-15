@@ -1,0 +1,15 @@
+E:\Đồ án LTW\Confetti\trunk\Confetti_Design\MC\MC\bin\Debug\MC.exe.config
+E:\Đồ án LTW\Confetti\trunk\Confetti_Design\MC\MC\bin\Debug\MC.exe
+E:\Đồ án LTW\Confetti\trunk\Confetti_Design\MC\MC\bin\Debug\MC.pdb
+E:\Đồ án LTW\Confetti\trunk\Confetti_Design\MC\MC\bin\Debug\CircularProgressBar.dll
+E:\Đồ án LTW\Confetti\trunk\Confetti_Design\MC\MC\bin\Debug\WinFormAnimation.dll
+E:\Đồ án LTW\Confetti\trunk\Confetti_Design\MC\MC\obj\Debug\MC.frmMC.resources
+E:\Đồ án LTW\Confetti\trunk\Confetti_Design\MC\MC\obj\Debug\MC.Properties.Resources.resources
+E:\Đồ án LTW\Confetti\trunk\Confetti_Design\MC\MC\obj\Debug\MC.csproj.GenerateResource.cache
+E:\Đồ án LTW\Confetti\trunk\Confetti_Design\MC\MC\obj\Debug\MC.csproj.CopyComplete
+E:\Đồ án LTW\Confetti\trunk\Confetti_Design\MC\MC\obj\Debug\MC.exe
+E:\Đồ án LTW\Confetti\trunk\Confetti_Design\MC\MC\obj\Debug\MC.pdb
+E:\Đồ án LTW\Confetti\trunk\Confetti_Design\MC\MC\bin\Debug\AForge.xml
+E:\Đồ án LTW\Confetti\trunk\Confetti_Design\MC\MC\bin\Debug\AForge.Video.xml
+E:\Đồ án LTW\Confetti\trunk\Confetti_Design\MC\MC\bin\Debug\AForge.Video.DirectShow.xml
+E:\Đồ án LTW\Confetti\trunk\Confetti_Design\MC\MC\obj\Debug\MC.csprojAssemblyReference.cache

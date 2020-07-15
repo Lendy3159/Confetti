@@ -1,0 +1,71 @@
+@@Book is to Reading as Fork is to:
+$$drawing
+$$writing
+$$eating
+&&2
+##
+
+@@Which one of the five is least like the other four?
+$$SNAKE
+$$COW
+$$TIGER
+&&0
+##
+
+@@29, 27, 24, 20, 15… What is next?
+$$7
+$$9
+$$10
+&&1
+##
+
+@@what this animal is in English?
+--https://pixnio.com/free-images/2017/09/26/2017-09-26-07-22-55-1100x731.jpg
+$$Cat
+$$Tom
+$$Rabbit
+&&0
+##
+
+@@The day after the day after tomorrow is four days before Monday. What day is it today?
+$$Monday
+$$Tuesday
+$$Wednesday
+&&0
+##
+
+@@Forest is to tree as tree is to ?
+$$plant
+$$leaf
+$$branch
+&&1
+##
+
+
+@@Which of these words do not title animals?
+$$Denmark
+$$Ant
+$$Tortoise 
+&&0
+##
+
+@@What part of speech is "unbelief", meaning "doubt"?
+$$Adverb
+$$Verb
+$$Noun
+&&2
+##
+
+@@The meaning of "Threes into nine goes three times" is:
+$$3 * 3 = 9
+$$3 + 9 * 3
+$$9 / 3 = 3
+&&2
+##
+
+@@Choose the different one:
+$$EXplain
+$$EXamine
+$$EXperience
+&&1
+##

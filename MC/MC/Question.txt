@@ -1,0 +1,15 @@
+@@what this animal is in English?
+--https://pixnio.com/free-images/2017/09/26/2017-09-26-07-22-55-1100x731.jpg
+$$Cat
+$$Tom
+$$Rabbit
+&&0
+##
+
+@@What movie do you like to watch?
+--https://2sao.vietnamnetjsc.vn/images/2019/05/01/07/15/Avengers-Endgame-01.jpeg
+$$Avengers
+$$Sex
+$$Tom and jerry
+&&0
+##
